@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eldrago00
-- 👀 Passionate about Cyber Security, Networking, Ethical Hacking, and Python Programming.
+- 👀 Passionate about Cyber Security, Networking, Ethical Hacking, Digital Forensics and Python Programming.
 - 🌱 Currently exploring Active Directory Security, VPN Deployments, Security Automation, Malware Analysis, and Advanced Python.
 - 💞️ Open to collaborating on Cybersecurity Research, CTF Challenges, Open-Source Security Projects, and Python-based Security Tools.
 - 📫 Reach me through LinkedIn, GitHub, or email.
